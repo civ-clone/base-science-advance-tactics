@@ -13,7 +13,8 @@
   "files": [
     "Tactics.js",
     "Tactics.d.ts",
-    "Tactics.js.map"
+    "Tactics.js.map",
+    "Tactics.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
